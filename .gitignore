@@ -1,0 +1,12 @@
+
+# Binário
+produtor-consumidor
+
+# Arquivos temporários de execução
+buffer.txt
+buffer.txt.lock
+temp.txt
+
+# Arquivos de backup
+*~
+*.swp
