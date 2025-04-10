@@ -89,4 +89,3 @@ Todos os processos irão:
 Feito com dedicação por um estudante de Engenharia da Computação no [CEFET/RJ](https://www.cefet-rj.br) 🧠⚙️  
 Se curtiu o projeto, deixa uma ⭐ no repositório!
 
-![Demonstração do funcionamento](demo.gif)
